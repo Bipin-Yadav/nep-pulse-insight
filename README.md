@@ -4,6 +4,9 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nep-survey-89184.web.app/)
+
+🌐 **Live Application**: [https://nep-survey-89184.web.app/](https://nep-survey-89184.web.app/)
 
 A premium, fully interactive **Multi-Step Survey Platform** designed to collect, store, and analyze feedback regarding the implementation of the **National Education Policy (NEP) 2020**. Powered by a React frontend and Firebase Firestore, the application provides an immersive user experience, real-time analytics, and secure data pipelines.
 
@@ -20,7 +23,8 @@ Traditionally, this meant:
 Recognizing an opportunity to innovate, I engineered this custom, **high-fidelity multi-step survey application** from the ground up. By combining a highly polished glassmorphic UI, responsive conditional logic, and real-time comparative database dashboards, we turned a tedious administrative chore into an immersive and highly engaging experience. 
 
 🚀 **The project is live, fully functional, and actively used!** 
-* Read about the journey, implementation, and real-world impact in my **[LinkedIn Post](https://www.linkedin.com/posts/bipin-yadav-612b102bb_resarch-survey-nep2020-share-7369438328795856898-uTW_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzfiG4BdudTphz4NNYbJunXeRe-pnhdRYg)**!
+* **Experience the Live Application**: [https://nep-survey-89184.web.app/](https://nep-survey-89184.web.app/)
+* Read about the journey, implementation, and real-world impact in my **[LinkedIn Post](https://lnkd.in/diNBVCN9)**!
 
 ---
 
