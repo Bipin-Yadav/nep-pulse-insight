@@ -9,6 +9,21 @@ A premium, fully interactive **Multi-Step Survey Platform** designed to collect,
 
 ---
 
+## 📖 The Backstory: Solving a Real-World Inefficiency
+
+This project was born out of a real-world academic challenge. As part of our **College Field Project** introduced under the new **National Education Policy (NEP)** curriculum, our team was tasked with collecting widespread feedback from students and alumni regarding the policy's implementation. 
+
+Traditionally, this meant:
+1. Carrying physical paper forms around campus, manually tracking down students, and spending hours transcribing handwriting.
+2. Settling for default Google Forms which, while functional, were generic, boring, and failed to engage busy respondents.
+
+Recognizing an opportunity to innovate, I engineered this custom, **high-fidelity multi-step survey application** from the ground up. By combining a highly polished glassmorphic UI, responsive conditional logic, and real-time comparative database dashboards, we turned a tedious administrative chore into an immersive and highly engaging experience. 
+
+🚀 **The project is live, fully functional, and actively used!** 
+* Read about the journey, implementation, and real-world impact in my **[LinkedIn Post](https://lnkd.in/diNBVCN9)**!
+
+---
+
 ## ✨ Key Features
 
 - **🎯 Interactive Multi-Step Form**: A beautifully polished 15-step responsive wizard that guides respondents through demographic, academic, and policy-specific questions with absolute ease.
@@ -46,7 +61,7 @@ Here is a step-by-step preview of the interactive survey flow, showcasing the re
 Upon submitting, respondents are greeted with a success indicator, followed by a fully responsive analytics dashboard compiling comparative data in real-time:
 | Submission Success | Result Dashboard Part 1 | Comprehensive Analytics Part 2 |
 | --- | --- | --- |
-| ![Thank You Page](screenshots/12thanyoupage.png) | ![Result View Part 1](screenshots/13second_last_resutl view.png) | ![Dashboard View](screenshots/14resultlastdesktop View.png) |
+| ![Thank You Page](screenshots/12thanyoupage.png) | ![Result View Part 1](screenshots/13second_last_resutl%20view.png) | ![Dashboard View](screenshots/14resultlastdesktop%20View.png) |
 
 ---
 
