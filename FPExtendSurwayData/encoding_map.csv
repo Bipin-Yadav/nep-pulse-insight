@@ -1,0 +1,51 @@
+Question,Code,Option
+1,0,Arts
+1,1,Commerce
+1,2,Science
+2,0,Alumni (studied before NEP)
+2,1,Current student (3rd year)
+2,2,Other
+3,0,No
+3,1,Yes
+4,0,Not very aware
+4,1,Somewhat aware
+4,2,Unaware
+4,3,Very aware
+5,0,Neutral
+5,1,Somewhat Negative
+5,2,Somewhat Positive
+5,3,Very Negative
+5,4,Very Positive
+6,0,Agree
+6,1,Disagree
+6,2,Neutral
+6,3,Strongly Agree
+6,4,Strongly Disagree
+7,0,Agree
+7,1,Disagree
+7,2,Neutral
+7,3,Strongly Agree
+7,4,Strongly Disagree
+8,0,I'm not sure
+8,1,No
+8,2,Yes
+9,0,Adequately
+9,1,I am not sure
+9,2,Poorly
+9,3,Very well
+10,0,Manageable
+10,1,Slightly burdensome
+10,2,Very burdensome
+11,0,"No, not at all"
+11,1,"No, not really"
+11,2,"Yes, definitely"
+11,3,"Yes, to some extent"
+12,0,Heavy syllabus
+12,1,Lack of adequate infrastructure
+12,2,Lack of awareness among students
+12,3,Other (please specify)
+12,4,Transportation issues
+13,0,A lot
+13,1,Not at all
+13,2,Not much
+13,3,Somewhat
