@@ -20,7 +20,7 @@ Traditionally, this meant:
 Recognizing an opportunity to innovate, I engineered this custom, **high-fidelity multi-step survey application** from the ground up. By combining a highly polished glassmorphic UI, responsive conditional logic, and real-time comparative database dashboards, we turned a tedious administrative chore into an immersive and highly engaging experience. 
 
 🚀 **The project is live, fully functional, and actively used!** 
-* Read about the journey, implementation, and real-world impact in my **[LinkedIn Post](https://lnkd.in/diNBVCN9)**!
+* Read about the journey, implementation, and real-world impact in my **[LinkedIn Post](https://www.linkedin.com/posts/bipin-yadav-612b102bb_resarch-survey-nep2020-share-7369438328795856898-uTW_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzfiG4BdudTphz4NNYbJunXeRe-pnhdRYg)**!
 
 ---
 
