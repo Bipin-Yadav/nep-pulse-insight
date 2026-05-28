@@ -6,7 +6,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nep-survey-89184.web.app/)
 
-🌐 **Live Application**: [https://nep-survey-89184.web.app/](https://nep-survey-89184.web.app/)
+🌐 **Live Application**: [https://QuoteHub.app/](https://nep-survey-89184.web.app/)
 
 A premium, fully interactive **Multi-Step Survey Platform** designed to collect, store, and analyze feedback regarding the implementation of the **National Education Policy (NEP) 2020**. Powered by a React frontend and Firebase Firestore, the application provides an immersive user experience, real-time analytics, and secure data pipelines.
 
